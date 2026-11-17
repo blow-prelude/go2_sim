@@ -1,0 +1,9 @@
+build/
+install/
+log/
+
+**/*cache**
+
+.worktree/
+.vscode/
+.claude/
